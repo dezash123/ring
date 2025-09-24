@@ -1,91 +1,892 @@
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138819470.513279 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138942357.582067 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138810665.516486 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138810665.516486 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138810665.516486 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138812955.673193 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138810665.516486 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138840469.750002 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-./include/wx/recguard.h(37): assert "m_flag > 0" failed in ~wxRecursionGuard(): unbalanced wxRecursionGuards!?
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138810665.516486 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
-/build/source/libs/kimath/src/math/util.cpp(61): assert ""Assert failure"" failed in kimathLogOverflow(): 
-
-Overflow converting value 5138815037.526326 to i.
+INFO: Loading schematic data from /tmp/.tmpPzyCWi/netlist.json
+INFO: Parsing JSON netlist from /tmp/.tmpPzyCWi/netlist.json
+INFO: Found module cpu.rfvdd.FB1 with layout_path: None
+INFO: Found module port.TP3 with layout_path: None
+INFO: Found module imu with layout_path: None
+INFO: Found module batman.C4 with layout_path: None
+INFO: Found module imu.C6 with layout_path: None
+INFO: Found module vreg with layout_path: None
+INFO: Found module port.TP5 with layout_path: None
+INFO: Found module cpu.C19 with layout_path: None
+INFO: Found module R6 with layout_path: None
+INFO: Found module cpu.pavdd with layout_path: None
+INFO: Found module cpu.C20 with layout_path: None
+INFO: Found module port.TP6 with layout_path: None
+INFO: Found module cpu.ant.L1 with layout_path: None
+INFO: Found module vreg.C27 with layout_path: None
+INFO: Found module R1 with layout_path: None
+INFO: Found module battery.C33 with layout_path: None
+INFO: Found module cpu.rfvdd.C2 with layout_path: None
+INFO: Found module cpu.ant.C13 with layout_path: None
+INFO: Found module cpu.C14 with layout_path: None
+INFO: Found module batman.C34 with layout_path: None
+INFO: Found module imu.C7 with layout_path: None
+INFO: Found module cpu.C23 with layout_path: None
+INFO: Found module batman.C11 with layout_path: None
+INFO: Found module vreg.C28 with layout_path: None
+INFO: Found module cpu.ant.L2 with layout_path: None
+INFO: Found module cpu.rfvdd.C1 with layout_path: None
+INFO: Found module TP1 with layout_path: None
+INFO: Found module port with layout_path: None
+INFO: Found module cpu.rfvdd.C3 with layout_path: None
+INFO: Found module imu.C5 with layout_path: None
+INFO: Found module cpu.Y1 with layout_path: None
+INFO: Found module cpu.rfvdd with layout_path: None
+INFO: Found module port.TP2 with layout_path: None
+INFO: Found module cpu with layout_path: None
+INFO: Found module cpu.pavdd.C3 with layout_path: None
+INFO: Found module batman with layout_path: None
+INFO: Found module battery.R4 with layout_path: None
+INFO: Found module tmp with layout_path: None
+INFO: Found module vreg.C50 with layout_path: None
+INFO: Found module cpu.ant.C12 with layout_path: None
+INFO: Found module cpu.pavdd.FB1 with layout_path: None
+INFO: Found module hbt.C8 with layout_path: None
+INFO: Found module cpu.pavdd.C1 with layout_path: None
+INFO: Found module cpu.ant with layout_path: None
+INFO: Found module port.TP4 with layout_path: None
+INFO: Found module mic.C26 with layout_path: None
+INFO: Found module cpu.pavdd.C2 with layout_path: None
+INFO: Found module hbt.C9 with layout_path: None
+INFO: Found module cpu.C18 with layout_path: None
+INFO: Found module cpu.C17 with layout_path: None
+INFO: Found module tmp.C3 with layout_path: None
+INFO: Found module cpu.C22 with layout_path: None
+INFO: Found module battery with layout_path: None
+INFO: Found module cpu.C21 with layout_path: None
+INFO: Found module mic with layout_path: None
+INFO: Found module hbt.C11 with layout_path: None
+INFO: Found module hbt with layout_path: None
+INFO: Found module hbt.C10 with layout_path: None
+INFO: Found module battery.R3 with layout_path: None
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: SetupBoard
+INFO: --------------------------------------------------------------------------------
+INFO: Starting SetupBoard...
+INFO: Completed SetupBoard in 0.000 seconds
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: ApplyMovedPaths
+INFO: --------------------------------------------------------------------------------
+INFO: Starting ApplyMovedPaths...
+INFO: No moved paths to apply
+INFO: Completed ApplyMovedPaths in 0.000 seconds
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: ImportNetlist
+INFO: --------------------------------------------------------------------------------
+INFO: Starting ImportNetlist...
+DEBUG: Environment setup took 0.000 seconds
+DEBUG: Footprint library map loading took 0.001 seconds
+INFO: 4b332587-b650-5773-afa0-f65b34d51e56 (C8): Updating metadata
+INFO: 380516bc-4a6a-577c-bcc6-7f0ef97462c1 (U15): Updating metadata
+INFO: b5c24f3b-83f4-5dfa-87d8-8caa6122ca4d (U13): Updating metadata
+INFO: 0336faf8-2529-59da-a4ba-c725f19305de (C11): Updating metadata
+INFO: a7716ceb-baa2-591c-b881-eb0640a2b4cd (U11): Updating metadata
+INFO: 8af6d9cc-290d-5c92-8072-ab7bc0336f51 (U10): Updating metadata
+INFO: 4da15596-9ddd-5926-98fe-a6285d8d6b6a (TP2): Updating metadata
+INFO: 80c9642f-46c5-5631-bf83-c1ea5a9b98f1 (U5): Updating metadata
+INFO: 035d89b6-d952-5c54-adfa-02d1751edfd1 (TP6): Updating metadata
+INFO: f4a3fdcc-fee8-5d1d-93bb-f3df02d53599 (C30): Updating metadata
+INFO: 054eb246-5e7b-5bd5-9176-28946d8bc817 (C14): Updating metadata
+INFO: bf26c523-7924-5187-9103-f86a98452230 (U14): Updating metadata
+INFO: d527c2b8-3606-5386-bbed-5a45ed7b31a6 (R1): Updating metadata
+INFO: 6416cd3e-77a7-55e0-85bf-f759e26a1fec (C6): Updating metadata
+INFO: 6eb3fef6-470e-5def-9b74-3c84890f3f36 (U12): Updating metadata
+INFO: 93f94a35-099b-5eea-9243-a640a8819c49 (C29): Updating metadata
+INFO: dad07543-a8f0-5ed8-ad12-cd6280feb00f (C9): Updating metadata
+INFO: 7da687fc-0ee2-5b21-8e86-00ba7cb4806d (U9): Updating metadata
+INFO: 6e7d75f9-96bf-569e-bb84-1cb772bf4c09 (C5): Updating metadata
+INFO: e6187f53-5527-50c9-8fc4-284d8c97f5ca (U7): Updating metadata
+INFO: 5a5460de-0ec8-5a58-adba-0b2f2d6115d1 (TP1): Updating metadata
+INFO: ee68d577-cfe4-5ad4-abb1-926f6f0b3f09 (U3): Updating metadata
+INFO: cdb2222f-f594-544c-8dc4-a9c59d6bd877 (C26): Updating metadata
+INFO: 75627468-ecf8-5d05-83c6-7d2161fe8ad6 (C17): Updating metadata
+INFO: 566fe3da-cf41-5b25-b883-d499b5c71000 (C19): Updating metadata
+INFO: 416ddbc4-8744-5d55-b101-44065736c16c (C21): Updating metadata
+INFO: fd6cb7ae-94f6-5baa-9780-f2769c94d6b0 (TP4): Updating metadata
+INFO: 8ce455a9-c5c7-5d96-9eda-7f6d46225e62 (L1): Updating metadata
+INFO: 38e7e301-dc39-5862-bc4b-b6fea9380161 (C28): Updating metadata
+INFO: 6ebb23ff-4778-5022-b7dc-8c40668d3981 (C13): Updating metadata
+INFO: 29246df8-0c45-5741-a6fa-a6866422a0cd (L2): Updating metadata
+INFO: bb1a363e-0250-5e18-a8ba-5d6cab5fd1fc (U4): Updating metadata
+INFO: d7464b19-4db9-515d-b387-7be753ecd057 (Y1): Updating metadata
+INFO: fbe92e9a-59bd-5512-b84c-1afa3474459d (C20): Updating metadata
+INFO: 2615b226-736d-5a2c-bcb0-599108d616cc (C12): Updating metadata
+INFO: dbaf3d89-2482-5fcc-b548-6e7315b0275b (TP5): Updating metadata
+INFO: 6a9d6f35-a7a6-5b41-91ca-60e9bbbd97e4 (FB2): Updating metadata
+INFO: 20e16c33-b60e-5548-8f05-d489f521c8ad (C22): Updating metadata
+INFO: 6ed58d81-5652-58d5-8d58-a7d7e4bfdb10 (C25): Updating metadata
+INFO: fb3cca66-5243-56c5-a653-6378be380f40 (U1): Updating metadata
+INFO: 8d9cf63e-a868-5e78-975d-25de7856fef6 (TP3): Updating metadata
+INFO: 2c44b001-58bf-5185-affe-24e9ae1f8040 (R3): Updating metadata
+INFO: 412ee531-6df4-5388-92bc-1d8c9dc60409 (U2): Updating metadata
+INFO: 22799189-3654-5a2e-a713-f8775cec8e25 (C3): Updating metadata
+INFO: 1ede9d21-b2d6-5ccc-bd9a-ba80854b5432 (C23): Updating metadata
+INFO: 158f424a-b569-5c2d-811e-618f538f9737 (C10): Updating metadata
+INFO: a69e19c5-1806-5675-b11c-2e778912274c (R2): Updating metadata
+INFO: 329c8ce6-e04d-5d5a-85cf-85da542598ac (C16): Updating metadata
+INFO: a6935ffc-b33f-547e-8059-4b5ece76e690 (C4): Updating metadata
+INFO: 3196de54-d670-51ec-86cd-4096fe36aca2 (C31): Updating metadata
+INFO: f3cc2a80-3520-5d90-bbfe-b0ee0a3ab4c3 (U8): Updating metadata
+INFO: 26d2bc06-2b3b-5925-a9c7-551ea3e2dab5 (C24): Updating metadata
+INFO: dbcb03e4-8339-52a9-bae2-4eb4dd235c56 (C27): Updating metadata
+INFO: 9950a03b-3f6d-53b2-80b4-4218947c2f42 (C18): Updating metadata
+INFO: f7c822b9-e5a7-5087-aa69-43919f4d6cb4 (U6): Updating metadata
+INFO: 153876f6-7ede-569c-8d84-68fba1e36cac (C2): Updating metadata
+INFO: 186647cf-da26-55a4-b5d3-e754d73eab8d (FB1): Updating metadata
+INFO: 8ecdeb54-4f9b-55e8-991a-a5d84fb8fdb4 (R4): Updating metadata
+INFO: 688e6d8b-0570-56f7-8bae-14f1fb49f3ab (C15): Updating metadata
+INFO: e4e1d187-9ca0-5a53-ba82-c700d40a53ca (R5): Updating metadata
+INFO: 7578b6b9-8c78-5418-bfc5-e77a485bdce1 (C7): Updating metadata
+INFO: edb49511-de30-5815-9b59-0305e97593a9 (C1): Updating metadata
+INFO: Footprint synchronization took 0.006 seconds
+INFO: Adding net batman.bin
+INFO: Connecting pad U1/B1 to net batman.bin
+INFO: Connecting pad R3/1 to net batman.bin
+INFO: Adding net VBATT
+INFO: Connecting pad U11/1 to net VBATT
+INFO: Connecting pad TP2/1 to net VBATT
+INFO: Connecting pad R5/1 to net VBATT
+INFO: Connecting pad U2/1 to net VBATT
+INFO: Connecting pad U1/C3 to net VBATT
+INFO: Connecting pad C1/1 to net VBATT
+INFO: Connecting pad U15/3 to net VBATT
+INFO: Connecting pad U15/4 to net VBATT
+INFO: Connecting pad C29/1 to net VBATT
+INFO: Connecting pad U8/10 to net VBATT
+INFO: Connecting pad U8/9 to net VBATT
+INFO: Connecting pad C20/1 to net VBATT
+INFO: Connecting pad C21/1 to net VBATT
+INFO: Adding net NC_3
+INFO: Connecting pad U6/14 to net NC_3
+INFO: Adding net NC_7
+INFO: Connecting pad U6/23 to net NC_7
+INFO: Adding net battery.bat_vm
+INFO: Connecting pad U5/6 to net battery.bat_vm
+INFO: Connecting pad R4/1 to net battery.bat_vm
+INFO: Adding net NC_6
+INFO: Connecting pad U6/22 to net NC_6
+INFO: Adding net cpu.ant
+INFO: Connecting pad L1/1 to net cpu.ant
+INFO: Connecting pad U6/12 to net cpu.ant
+INFO: Adding net cpu.ant.out1
+INFO: Connecting pad L1/2 to net cpu.ant.out1
+INFO: Connecting pad L2/1 to net cpu.ant.out1
+INFO: Connecting pad C12/1 to net cpu.ant.out1
+INFO: Adding net cpu.NC
+INFO: Connecting pad U6/25 to net cpu.NC
+INFO: Adding net cpu.ant.out2
+INFO: Connecting pad L2/2 to net cpu.ant.out2
+INFO: Connecting pad C13/1 to net cpu.ant.out2
+INFO: Adding net imu.NC
+INFO: Connecting pad U9/10 to net imu.NC
+INFO: Adding net imu_int1
+INFO: Connecting pad U9/4 to net imu_int1
+INFO: Connecting pad U6/16 to net imu_int1
+INFO: Adding net NC_5
+INFO: Connecting pad U6/21 to net NC_5
+INFO: Adding net rst
+INFO: Connecting pad TP1/1 to net rst
+INFO: Connecting pad U6/9 to net rst
+INFO: Adding net cpu.pavdd
+INFO: Connecting pad C14/1 to net cpu.pavdd
+INFO: Connecting pad C15/1 to net cpu.pavdd
+INFO: Connecting pad C16/1 to net cpu.pavdd
+INFO: Connecting pad FB1/2 to net cpu.pavdd
+INFO: Connecting pad U6/13 to net cpu.pavdd
+INFO: Adding net cpu.rfvdd
+INFO: Connecting pad C17/1 to net cpu.rfvdd
+INFO: Connecting pad C18/1 to net cpu.rfvdd
+INFO: Connecting pad C19/1 to net cpu.rfvdd
+INFO: Connecting pad FB2/2 to net cpu.rfvdd
+INFO: Connecting pad U6/10 to net cpu.rfvdd
+INFO: Adding net sda
+INFO: Connecting pad U1/A2 to net sda
+INFO: Connecting pad U8/3 to net sda
+INFO: Connecting pad U14/6 to net sda
+INFO: Connecting pad U9/14 to net sda
+INFO: Connecting pad R1/2 to net sda
+INFO: Connecting pad U6/4 to net sda
+INFO: Adding net swdio
+INFO: Connecting pad U12/1 to net swdio
+INFO: Connecting pad TP3/1 to net swdio
+INFO: Connecting pad U6/19 to net swdio
+INFO: Adding net NC_4
+INFO: Connecting pad U6/20 to net NC_4
+INFO: Adding net hbt_int
+INFO: Connecting pad U8/13 to net hbt_int
+INFO: Connecting pad U6/1 to net hbt_int
+INFO: Adding net mic_data
+INFO: Connecting pad U10/1 to net mic_data
+INFO: Connecting pad U6/32 to net mic_data
+INFO: Adding net scl
+INFO: Connecting pad U1/A3 to net scl
+INFO: Connecting pad U8/2 to net scl
+INFO: Connecting pad U14/1 to net scl
+INFO: Connecting pad U9/13 to net scl
+INFO: Connecting pad R2/2 to net scl
+INFO: Connecting pad U6/3 to net scl
+INFO: Adding net swclk
+INFO: Connecting pad U13/1 to net swclk
+INFO: Connecting pad TP4/1 to net swclk
+INFO: Connecting pad U6/18 to net swclk
+INFO: Adding net hbt.NC
+INFO: Connecting pad U8/1 to net hbt.NC
+INFO: Connecting pad U8/7 to net hbt.NC
+INFO: Connecting pad U8/8 to net hbt.NC
+INFO: Connecting pad U8/14 to net hbt.NC
+INFO: Connecting pad U8/6 to net hbt.NC
+INFO: Connecting pad U8/5 to net hbt.NC
+INFO: Adding net NC
+INFO: Connecting pad U6/6 to net NC
+INFO: Adding net battery.bat2
+INFO: Connecting pad U5/5 to net battery.bat2
+INFO: Connecting pad R5/2 to net battery.bat2
+INFO: Connecting pad C3/1 to net battery.bat2
+INFO: Adding net cpu.xin
+INFO: Connecting pad Y1/1 to net cpu.xin
+INFO: Connecting pad U6/7 to net cpu.xin
+INFO: Adding net tmp_int
+INFO: Connecting pad U14/3 to net tmp_int
+INFO: Connecting pad U6/17 to net tmp_int
+INFO: Adding net GND
+INFO: Connecting pad U11/2 to net GND
+INFO: Connecting pad U12/2 to net GND
+INFO: Connecting pad U13/2 to net GND
+INFO: Connecting pad TP5/1 to net GND
+INFO: Connecting pad TP6/1 to net GND
+INFO: Connecting pad U4/2 to net GND
+INFO: Connecting pad R4/2 to net GND
+INFO: Connecting pad U1/B2 to net GND
+INFO: Connecting pad U1/C1 to net GND
+INFO: Connecting pad C1/2 to net GND
+INFO: Connecting pad C2/2 to net GND
+INFO: Connecting pad R3/2 to net GND
+INFO: Connecting pad U15/2 to net GND
+INFO: Connecting pad U15/5 to net GND
+INFO: Connecting pad C29/2 to net GND
+INFO: Connecting pad C30/2 to net GND
+INFO: Connecting pad C31/2 to net GND
+INFO: Connecting pad U8/4 to net GND
+INFO: Connecting pad U8/12 to net GND
+INFO: Connecting pad C22/2 to net GND
+INFO: Connecting pad C23/2 to net GND
+INFO: Connecting pad C20/2 to net GND
+INFO: Connecting pad C21/2 to net GND
+INFO: Connecting pad U14/2 to net GND
+INFO: Connecting pad U14/4 to net GND
+INFO: Connecting pad C28/2 to net GND
+INFO: Connecting pad U10/5 to net GND
+INFO: Connecting pad U10/4 to net GND
+INFO: Connecting pad C27/2 to net GND
+INFO: Connecting pad U9/2 to net GND
+INFO: Connecting pad U9/3 to net GND
+INFO: Connecting pad U9/1 to net GND
+INFO: Connecting pad U9/6 to net GND
+INFO: Connecting pad U9/7 to net GND
+INFO: Connecting pad C24/2 to net GND
+INFO: Connecting pad C25/2 to net GND
+INFO: Connecting pad C26/2 to net GND
+INFO: Connecting pad Y1/2 to net GND
+INFO: Connecting pad Y1/4 to net GND
+INFO: Connecting pad C4/2 to net GND
+INFO: Connecting pad C17/2 to net GND
+INFO: Connecting pad C18/2 to net GND
+INFO: Connecting pad C19/2 to net GND
+INFO: Connecting pad C14/2 to net GND
+INFO: Connecting pad C15/2 to net GND
+INFO: Connecting pad C16/2 to net GND
+INFO: Connecting pad C7/2 to net GND
+INFO: Connecting pad C6/2 to net GND
+INFO: Connecting pad C5/2 to net GND
+INFO: Connecting pad C9/2 to net GND
+INFO: Connecting pad C8/2 to net GND
+INFO: Connecting pad C11/2 to net GND
+INFO: Connecting pad C10/2 to net GND
+INFO: Connecting pad C12/2 to net GND
+INFO: Connecting pad U7/2 to net GND
+INFO: Connecting pad U6/11 to net GND
+INFO: Connecting pad U6/27 to net GND
+INFO: Connecting pad U6/33 to net GND
+INFO: Adding net cpu.decouple
+INFO: Connecting pad C4/1 to net cpu.decouple
+INFO: Connecting pad U6/24 to net cpu.decouple
+INFO: Adding net NC_2
+INFO: Connecting pad U6/15 to net NC_2
+INFO: Adding net battery.NC
+INFO: Connecting pad U5/1 to net battery.NC
+INFO: Adding net battery.bat_cout
+INFO: Connecting pad U5/2 to net battery.bat_cout
+INFO: Connecting pad U4/1 to net battery.bat_cout
+INFO: Adding net mic_clk
+INFO: Connecting pad U10/3 to net mic_clk
+INFO: Connecting pad U6/31 to net mic_clk
+INFO: Adding net bat_low
+INFO: Connecting pad U1/A1 to net bat_low
+INFO: Connecting pad U6/5 to net bat_low
+INFO: Adding net battery.bat_qm
+INFO: Connecting pad U3/3 to net battery.bat_qm
+INFO: Connecting pad U4/3 to net battery.bat_qm
+INFO: Adding net imu.NC_2
+INFO: Connecting pad U9/11 to net imu.NC_2
+INFO: Adding net VDD
+INFO: Connecting pad U1/C2 to net VDD
+INFO: Connecting pad U15/1 to net VDD
+INFO: Connecting pad C30/1 to net VDD
+INFO: Connecting pad C31/1 to net VDD
+INFO: Connecting pad U8/11 to net VDD
+INFO: Connecting pad C22/1 to net VDD
+INFO: Connecting pad C23/1 to net VDD
+INFO: Connecting pad U14/5 to net VDD
+INFO: Connecting pad C28/1 to net VDD
+INFO: Connecting pad U10/2 to net VDD
+INFO: Connecting pad C27/1 to net VDD
+INFO: Connecting pad U9/8 to net VDD
+INFO: Connecting pad U9/12 to net VDD
+INFO: Connecting pad U9/5 to net VDD
+INFO: Connecting pad C24/1 to net VDD
+INFO: Connecting pad C25/1 to net VDD
+INFO: Connecting pad C26/1 to net VDD
+INFO: Connecting pad R1/1 to net VDD
+INFO: Connecting pad R2/1 to net VDD
+INFO: Connecting pad FB2/1 to net VDD
+INFO: Connecting pad FB1/1 to net VDD
+INFO: Connecting pad C7/1 to net VDD
+INFO: Connecting pad C6/1 to net VDD
+INFO: Connecting pad C5/1 to net VDD
+INFO: Connecting pad C9/1 to net VDD
+INFO: Connecting pad C8/1 to net VDD
+INFO: Connecting pad C11/1 to net VDD
+INFO: Connecting pad C10/1 to net VDD
+INFO: Connecting pad U6/26 to net VDD
+INFO: Connecting pad U6/29 to net VDD
+INFO: Connecting pad U6/30 to net VDD
+INFO: Connecting pad U6/28 to net VDD
+INFO: Adding net battery.bat_dout
+INFO: Connecting pad U5/3 to net battery.bat_dout
+INFO: Connecting pad U3/1 to net battery.bat_dout
+INFO: Adding net battery.bat_vss
+INFO: Connecting pad U5/4 to net battery.bat_vss
+INFO: Connecting pad U3/2 to net battery.bat_vss
+INFO: Connecting pad C3/2 to net battery.bat_vss
+INFO: Connecting pad U2/2 to net battery.bat_vss
+INFO: Adding net cpu.xout
+INFO: Connecting pad Y1/3 to net cpu.xout
+INFO: Connecting pad U6/8 to net cpu.xout
+INFO: Adding net cpu.ant.out3
+INFO: Connecting pad C13/2 to net cpu.ant.out3
+INFO: Connecting pad U7/1 to net cpu.ant.out3
+INFO: Adding net imu_int2
+INFO: Connecting pad U9/9 to net imu_int2
+INFO: Connecting pad U6/2 to net imu_int2
+INFO: Adding net batman.batman_vdd_out
+INFO: Connecting pad U1/B3 to net batman.batman_vdd_out
+INFO: Connecting pad C2/1 to net batman.batman_vdd_out
+INFO: Net synchronization took 0.002 seconds
+DEBUG: Will create group battery with 7 children
+DEBUG: Will create group cpu.ant with 5 children
+DEBUG: Will create group batman with 4 children
+DEBUG: Will create group imu with 4 children
+DEBUG: Will create group cpu.pavdd with 4 children
+DEBUG: Will create group mic with 2 children
+DEBUG: Will create group cpu.rfvdd with 4 children
+DEBUG: Will create group port with 8 children
+DEBUG: Will create group hbt with 5 children
+DEBUG: Will create group cpu with 13 children
+DEBUG: Will create group tmp with 2 children
+DEBUG: Will create group vreg with 4 children
+INFO: Using existing group: batman
+INFO: Using existing group: battery
+INFO: Using existing group: cpu
+INFO: Using existing group: cpu.ant
+INFO: Using existing group: cpu.pavdd
+INFO: Using existing group: cpu.rfvdd
+INFO: Using existing group: hbt
+INFO: Using existing group: imu
+INFO: Using existing group: mic
+INFO: Using existing group: port
+INFO: Using existing group: tmp
+INFO: Using existing group: vreg
+DEBUG: Added C10 to group cpu
+DEBUG: Added R4 to group battery
+DEBUG: Added C13 to group cpu.ant
+DEBUG: Added C22 to group hbt
+DEBUG: Added C11 to group cpu
+DEBUG: Added U14 to group tmp
+DEBUG: Added C7 to group cpu
+DEBUG: Added U4 to group battery
+DEBUG: Added C26 to group imu
+DEBUG: Added U12 to group port
+DEBUG: Added U11 to group port
+DEBUG: Added L1 to group cpu.ant
+DEBUG: Added U15 to group vreg
+DEBUG: Added C30 to group vreg
+DEBUG: Added U1 to group batman
+DEBUG: Added R5 to group battery
+DEBUG: Added C31 to group vreg
+DEBUG: Added C16 to group cpu.pavdd
+DEBUG: Added U7 to group cpu.ant
+DEBUG: Added C3 to group battery
+DEBUG: Added R3 to group batman
+DEBUG: Added C15 to group cpu.pavdd
+DEBUG: Added U6 to group cpu
+DEBUG: Added C6 to group cpu
+DEBUG: Added C17 to group cpu.rfvdd
+DEBUG: Added FB2 to group cpu.rfvdd
+DEBUG: Added C21 to group hbt
+DEBUG: Added U2 to group battery
+DEBUG: Added C29 to group vreg
+DEBUG: Added C24 to group imu
+DEBUG: Added C23 to group hbt
+DEBUG: Added C1 to group batman
+DEBUG: Added TP4 to group port
+DEBUG: Added U9 to group imu
+DEBUG: Added C8 to group cpu
+DEBUG: Added TP5 to group port
+DEBUG: Added U13 to group port
+DEBUG: Added C18 to group cpu.rfvdd
+DEBUG: Added C20 to group hbt
+DEBUG: Added TP2 to group port
+DEBUG: Added L2 to group cpu.ant
+DEBUG: Added TP6 to group port
+DEBUG: Added C2 to group batman
+DEBUG: Added U5 to group battery
+DEBUG: Added C5 to group cpu
+DEBUG: Added C4 to group cpu
+DEBUG: Added C28 to group tmp
+DEBUG: Added C9 to group cpu
+DEBUG: Added C25 to group imu
+DEBUG: Added C12 to group cpu.ant
+DEBUG: Added TP3 to group port
+DEBUG: Added U8 to group hbt
+DEBUG: Added C27 to group mic
+DEBUG: Added FB1 to group cpu.pavdd
+DEBUG: Added U3 to group battery
+DEBUG: Added C14 to group cpu.pavdd
+DEBUG: Added Y1 to group cpu
+DEBUG: Added C19 to group cpu.rfvdd
+DEBUG: Added U10 to group mic
+INFO: Group synchronization took 0.002 seconds
+DEBUG: Board refresh took 0.000 seconds
+INFO: Virtual DOM building took 0.003 seconds
+INFO: Virtual DOM structure:
+INFO: Board VirtualBoundingBox(x=119750000, y=79922500, width=62100000, height=6302500)
+  R1 VirtualBoundingBox(x=151975000, y=84325000, width=750000, height=1450000)
+    R1.R (R_0201_0603Metric:R_0201_0603Metric) VirtualBoundingBox(x=151975000, y=84325000, width=750000, height=1450000)
+  R6 VirtualBoundingBox(x=151225000, y=83625000, width=1450000, height=750000)
+    R6.R (R_0201_0603Metric:R_0201_0603Metric) VirtualBoundingBox(x=151225000, y=83625000, width=1450000, height=750000)
+  TP1 VirtualBoundingBox(x=140175000, y=81025000, width=2050000, height=2050000)
+    TP1.TP (TestPoint_Pad_D1.0mm:TestPoint_Pad_D1.0mm) VirtualBoundingBox(x=140175000, y=81025000, width=2050000, height=2050000)
+  batman VirtualBoundingBox(x=161777500, y=79987500, width=5850000, height=3650000)
+    batman.C11 VirtualBoundingBox(x=166877500, y=80237500, width=750000, height=1450000)
+      batman.C11.R (R_0201_0603Metric:R_0201_0603Metric) VirtualBoundingBox(x=166877500, y=80237500, width=750000, height=1450000)
+    batman.C34 VirtualBoundingBox(x=161777500, y=80237500, width=1450000, height=750000)
+      batman.C34.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=161777500, y=80237500, width=1450000, height=750000)
+    batman.C4 VirtualBoundingBox(x=161777500, y=80937500, width=1450000, height=750000)
+      batman.C4.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=161777500, y=80937500, width=1450000, height=750000)
+    batman.U6 (BGA-9_1.6x1.6mm_Layout3x3_P0.5mm:BGA-9_1.6x1.6mm_Layout3x3_P0.5mm) VirtualBoundingBox(x=163177500, y=79987500, width=3650000, height=3650000)
+  battery VirtualBoundingBox(x=161352500, y=80975000, width=6150000, height=4930000)
+    battery.C33 VirtualBoundingBox(x=162060000, y=83632500, width=750000, height=1450000)
+      battery.C33.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=162060000, y=83632500, width=750000, height=1450000)
+    battery.R3 VirtualBoundingBox(x=161352500, y=85037500, width=1450000, height=750000)
+      battery.R3.R (R_0201_0603Metric:R_0201_0603Metric) VirtualBoundingBox(x=161352500, y=85037500, width=1450000, height=750000)
+    battery.R4 VirtualBoundingBox(x=161352500, y=83632500, width=750000, height=1450000)
+      battery.R4.R (R_0201_0603Metric:R_0201_0603Metric) VirtualBoundingBox(x=161352500, y=83632500, width=750000, height=1450000)
+    battery.BT1 (Battery:Battery) VirtualBoundingBox(x=165002500, y=80975000, width=2500000, height=4250000)
+    battery.U5 (WSON-6_1.5x1.5mm_P0.5mm:WSON-6_1.5x1.5mm_P0.5mm) VirtualBoundingBox(x=162752500, y=83620000, width=2465000, height=2285000)
+    battery.Q2 (Texas_PicoStar_DFN-3_0.69x0.60mm:Texas_PicoStar_DFN-3_0.69x0.60mm) VirtualBoundingBox(x=165057500, y=84630000, width=1180000, height=1080000)
+    battery.Q1 (Texas_PicoStar_DFN-3_0.69x0.60mm:Texas_PicoStar_DFN-3_0.69x0.60mm) VirtualBoundingBox(x=165055000, y=83542500, width=1180000, height=1080000)
+  cpu VirtualBoundingBox(x=119775000, y=79975000, width=28810000, height=6070000)
+    cpu.C14 VirtualBoundingBox(x=145795000, y=85065000, width=1870000, height=970000)
+      cpu.C14.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=145795000, y=85065000, width=1870000, height=970000)
+    cpu.C17 VirtualBoundingBox(x=147615000, y=84165000, width=970000, height=1870000)
+      cpu.C17.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=147615000, y=84165000, width=970000, height=1870000)
+    cpu.C18 VirtualBoundingBox(x=146625000, y=83425000, width=1450000, height=750000)
+      cpu.C18.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=146625000, y=83425000, width=1450000, height=750000)
+    cpu.C19 VirtualBoundingBox(x=145775000, y=84325000, width=1450000, height=750000)
+      cpu.C19.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=145775000, y=84325000, width=1450000, height=750000)
+    cpu.C20 VirtualBoundingBox(x=147215000, y=81585000, width=970000, height=1870000)
+      cpu.C20.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=147215000, y=81585000, width=970000, height=1870000)
+    cpu.C21 VirtualBoundingBox(x=145775000, y=82725000, width=1450000, height=750000)
+      cpu.C21.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=145775000, y=82725000, width=1450000, height=750000)
+    cpu.C22 VirtualBoundingBox(x=146165000, y=80165000, width=970000, height=1870000)
+      cpu.C22.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=146165000, y=80165000, width=970000, height=1870000)
+    cpu.C23 VirtualBoundingBox(x=145775000, y=82025000, width=1450000, height=750000)
+      cpu.C23.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=145775000, y=82025000, width=1450000, height=750000)
+    cpu.Y1 VirtualBoundingBox(x=138860000, y=80060000, width=1735000, height=1935000)
+      cpu.Y1.Y (Crystal_SMD_1210-4Pin_1.2x1.0mm:Crystal_SMD_1210-4Pin_1.2x1.0mm) VirtualBoundingBox(x=138860000, y=80060000, width=1735000, height=1935000)
+    cpu.ant VirtualBoundingBox(x=119775000, y=79975000, width=20850000, height=6000000)
+      cpu.ant.C12 VirtualBoundingBox(x=138475000, y=83375000, width=1450000, height=750000)
+        cpu.ant.C12.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=138475000, y=83375000, width=1450000, height=750000)
+      cpu.ant.C13 VirtualBoundingBox(x=137075000, y=82775000, width=1450000, height=750000)
+        cpu.ant.C13.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=137075000, y=82775000, width=1450000, height=750000)
+      cpu.ant.L1 VirtualBoundingBox(x=139875000, y=82675000, width=750000, height=1450000)
+        cpu.ant.L1.L (L_0201_0603Metric:L_0201_0603Metric) VirtualBoundingBox(x=139875000, y=82675000, width=750000, height=1450000)
+      cpu.ant.L2 VirtualBoundingBox(x=138475000, y=82675000, width=1450000, height=750000)
+        cpu.ant.L2.L (L_0201_0603Metric:L_0201_0603Metric) VirtualBoundingBox(x=138475000, y=82675000, width=1450000, height=750000)
+      cpu.ant.J1 (Texas_SWRA117D_2.4GHz_Right:Texas_SWRA117D_2.4GHz_Right) VirtualBoundingBox(x=119775000, y=79975000, width=15550000, height=6000000)
+    cpu.pavdd VirtualBoundingBox(x=137042857, y=84075000, width=3332143, height=1970000)
+      cpu.pavdd.C1 VirtualBoundingBox(x=139625000, y=84075000, width=750000, height=1450000)
+        cpu.pavdd.C1.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=139625000, y=84075000, width=750000, height=1450000)
+      cpu.pavdd.C2 VirtualBoundingBox(x=138925000, y=84075000, width=750000, height=1450000)
+        cpu.pavdd.C2.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=138925000, y=84075000, width=750000, height=1450000)
+      cpu.pavdd.C3 VirtualBoundingBox(x=137062857, y=84102500, width=1870000, height=970000)
+        cpu.pavdd.C3.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=137062857, y=84102500, width=1870000, height=970000)
+      cpu.pavdd.FB1 VirtualBoundingBox(x=137042857, y=85055000, width=1910000, height=990000)
+        cpu.pavdd.FB1.FB (R_0402_1005Metric:R_0402_1005Metric) VirtualBoundingBox(x=137042857, y=85055000, width=1910000, height=990000)
+    cpu.rfvdd VirtualBoundingBox(x=137045000, y=80155000, width=3330000, height=2670000)
+      cpu.rfvdd.C1 VirtualBoundingBox(x=138925000, y=81975000, width=1450000, height=750000)
+        cpu.rfvdd.C1.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=138925000, y=81975000, width=1450000, height=750000)
+      cpu.rfvdd.C2 VirtualBoundingBox(x=137075000, y=82075000, width=1450000, height=750000)
+        cpu.rfvdd.C2.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=137075000, y=82075000, width=1450000, height=750000)
+      cpu.rfvdd.C3 VirtualBoundingBox(x=137065000, y=81115000, width=1870000, height=970000)
+        cpu.rfvdd.C3.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=137065000, y=81115000, width=1870000, height=970000)
+      cpu.rfvdd.FB1 VirtualBoundingBox(x=137045000, y=80155000, width=1910000, height=990000)
+        cpu.rfvdd.FB1.FB (R_0402_1005Metric:R_0402_1005Metric) VirtualBoundingBox(x=137045000, y=80155000, width=1910000, height=990000)
+    cpu.U7 (QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm:QFN-32-1EP_4x4mm_P0.4mm_EP2.9x2.9mm) VirtualBoundingBox(x=140575000, y=80525000, width=5250000, height=5250000)
+  hbt VirtualBoundingBox(x=155572500, y=79922500, width=5795000, height=6255000)
+    hbt.C10 VirtualBoundingBox(x=159497500, y=84877500, width=1870000, height=970000)
+      hbt.C10.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=159497500, y=84877500, width=1870000, height=970000)
+    hbt.C11 VirtualBoundingBox(x=159477500, y=84137500, width=1450000, height=750000)
+      hbt.C11.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=159477500, y=84137500, width=1450000, height=750000)
+    hbt.C8 VirtualBoundingBox(x=159567500, y=82277500, width=970000, height=1870000)
+      hbt.C8.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=159567500, y=82277500, width=970000, height=1870000)
+    hbt.C9 VirtualBoundingBox(x=159527500, y=80837500, width=750000, height=1450000)
+      hbt.C9.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=159527500, y=80837500, width=750000, height=1450000)
+    hbt.U4 (Maxim_OLGA-14_3.3x5.6mm_P0.8mm:Maxim_OLGA-14_3.3x5.6mm_P0.8mm) VirtualBoundingBox(x=155572500, y=79922500, width=3955000, height=6255000)
+  imu VirtualBoundingBox(x=152590000, y=80255000, width=3135000, height=5670000)
+    imu.C5 VirtualBoundingBox(x=154275000, y=85175000, width=1450000, height=750000)
+      imu.C5.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=154275000, y=85175000, width=1450000, height=750000)
+    imu.C6 VirtualBoundingBox(x=154975000, y=80255000, width=750000, height=1450000)
+      imu.C6.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=154975000, y=80255000, width=750000, height=1450000)
+    imu.C7 VirtualBoundingBox(x=153115000, y=80715000, width=1870000, height=970000)
+      imu.C7.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=153115000, y=80715000, width=1870000, height=970000)
+    imu.U3 (LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y:LGA-14_3x2.5mm_P0.5mm_LayoutBorder3x4y) VirtualBoundingBox(x=152590000, y=81675000, width=3135000, height=3585000)
+  mic VirtualBoundingBox(x=147425000, y=79937500, width=5300000, height=3725000)
+    mic.C26 VirtualBoundingBox(x=147425000, y=80155000, width=750000, height=1450000)
+      mic.C26.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=147425000, y=80155000, width=750000, height=1450000)
+    mic.MK1 (Infineon_PG-LLGA-5-1:Infineon_PG-LLGA-5-1) VirtualBoundingBox(x=148000000, y=79937500, width=4725000, height=3725000)
+  port VirtualBoundingBox(x=166157500, y=79975000, width=15667500, height=6250000)
+    port.TP2 VirtualBoundingBox(x=176275000, y=81575000, width=3050000, height=3050000)
+      port.TP2.TP (TestPoint_Pad_D2.0mm:TestPoint_Pad_D2.0mm) VirtualBoundingBox(x=176275000, y=81575000, width=3050000, height=3050000)
+    port.TP3 VirtualBoundingBox(x=173775000, y=84175000, width=2050000, height=2050000)
+      port.TP3.TP (TestPoint_Pad_D1.0mm:TestPoint_Pad_D1.0mm) VirtualBoundingBox(x=173775000, y=84175000, width=2050000, height=2050000)
+    port.TP4 VirtualBoundingBox(x=179775000, y=79975000, width=2050000, height=2050000)
+      port.TP4.TP (TestPoint_Pad_D1.0mm:TestPoint_Pad_D1.0mm) VirtualBoundingBox(x=179775000, y=79975000, width=2050000, height=2050000)
+    port.TP5 VirtualBoundingBox(x=179775000, y=84175000, width=2050000, height=2050000)
+      port.TP5.TP (TestPoint_Pad_D1.0mm:TestPoint_Pad_D1.0mm) VirtualBoundingBox(x=179775000, y=84175000, width=2050000, height=2050000)
+    port.TP6 VirtualBoundingBox(x=173775000, y=79975000, width=2050000, height=2050000)
+      port.TP6.TP (TestPoint_Pad_D1.0mm:TestPoint_Pad_D1.0mm) VirtualBoundingBox(x=173775000, y=79975000, width=2050000, height=2050000)
+    port.D2 (D_SOD-923:D_SOD-923) VirtualBoundingBox(x=166157500, y=85175000, width=1695000, height=950000)
+    port.D1 (D_SOD-923:D_SOD-923) VirtualBoundingBox(x=166777500, y=81645000, width=950000, height=1695000)
+    port.D3 (D_SOD-923:D_SOD-923) VirtualBoundingBox(x=166777500, y=83167500, width=950000, height=1695000)
+  tmp VirtualBoundingBox(x=148320000, y=83537500, width=3655000, height=2625000)
+    tmp.C3 VirtualBoundingBox(x=151225000, y=84512500, width=750000, height=1450000)
+      tmp.C3.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=151225000, y=84512500, width=750000, height=1450000)
+    tmp.U1 (WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm) VirtualBoundingBox(x=148320000, y=83537500, width=2935000, height=2625000)
+  vreg VirtualBoundingBox(x=160327500, y=80350179, width=2660000, height=3300000)
+    vreg.C27 VirtualBoundingBox(x=162017500, y=81760179, width=970000, height=1870000)
+      vreg.C27.C (C_0402_1005Metric:C_0402_1005Metric) VirtualBoundingBox(x=162017500, y=81760179, width=970000, height=1870000)
+    vreg.C28 VirtualBoundingBox(x=161077500, y=80350179, width=750000, height=1450000)
+      vreg.C28.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=161077500, y=80350179, width=750000, height=1450000)
+    vreg.C50 VirtualBoundingBox(x=160327500, y=80350179, width=750000, height=1450000)
+      vreg.C50.C (C_0201_0603Metric:C_0201_0603Metric) VirtualBoundingBox(x=160327500, y=80350179, width=750000, height=1450000)
+    vreg.U2 (Texas_X2SON-4_1x1mm_P0.65mm:Texas_X2SON-4_1x1mm_P0.65mm) VirtualBoundingBox(x=160477500, y=81574822, width=1600000, height=2075357)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=136902775, y=84954493, width=467329, height=477754)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154950000, y=81050000, width=401000, height=407357)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154564557, y=83743093, width=559969, height=335379)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147277533, y=82949611, width=564622, height=601479)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=163783824, y=81140863, width=267175, height=343274)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=139999293, y=84250000, width=427298, height=361103)
+  Zone:$teardrop_padvia$ (net:6) VirtualBoundingBox(x=148725000, y=82162500, width=450000, height=576000)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=138150807, y=81542383, width=504874, height=601664)
+  Zone:$teardrop_padvia$ (net:11) VirtualBoundingBox(x=165379885, y=82288114, width=245213, height=329097)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=149425000, y=80432298, width=368232, height=605701)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=139872775, y=82059070, width=401714, height=388155)
+  Zone:$teardrop_padvia$ (net:19) VirtualBoundingBox(x=164538489, y=84608772, width=591824, height=261657)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=167300723, y=85367145, width=334632, height=283562)
+  Zone:$teardrop_padvia$ (net:12) VirtualBoundingBox(x=157652775, y=81002775, width=372685, height=375650)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=159452500, y=84312500, width=431000, height=400000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154636158, y=83753843, width=464708, height=392314)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=158627474, y=84362483, width=350000, height=351016)
+  Zone:$teardrop_padvia$ (net:17) VirtualBoundingBox(x=164254901, y=81689902, width=248598, height=245196)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=139600000, y=84280000, width=401000, height=400000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145999108, y=81975699, width=398237, height=425167)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=173809607, y=84784265, width=991393, height=831470)
+  Zone:$teardrop_padvia$ (net:8) VirtualBoundingBox(x=145254493, y=80799001, width=317144, height=335893)
+  Zone:$teardrop_padvia$ (net:24) VirtualBoundingBox(x=165501501, y=81689902, width=248598, height=245196)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=153275170, y=82822399, width=560220, height=335852)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=167251634, y=84071500, width=257937, height=342962)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=150628363, y=83812900, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:24) VirtualBoundingBox(x=166918343, y=81199678, width=387016, height=420049)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146534018, y=81024929, width=671043, height=641047)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155037072, y=83949169, width=470322, height=371226)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145764665, y=82268371, width=451263, height=381619)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=150773910, y=80905863, width=357055, height=343274)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=139299000, y=84280000, width=401000, height=400000)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=152917806, y=83949293, width=442178, height=370370)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155150001, y=81299001, width=399999, height=431000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155091136, y=83721199, width=592138, height=326390)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146898004, y=83799293, width=361996, height=423035)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=152349293, y=84475237, width=412993, height=374405)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=159901635, y=81656156, width=459917, height=393040)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=158801500, y=82937500, width=551000, height=349999)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=159672500, y=84772500, width=532343, height=591000)
+  Zone:$teardrop_padvia$ (net:4) VirtualBoundingBox(x=141515859, y=84894431, width=354857, height=326273)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146565650, y=83600000, width=465216, height=366892)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=143154493, y=80440859, width=345508, height=352130)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=136934378, y=85019348, width=615208, height=642614)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=159486343, y=84316343, width=397157, height=392314)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=164252775, y=82684180, width=413045, height=413045)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147465242, y=84350657, width=635481, height=498323)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=152756577, y=83299404, width=531788, height=318935)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=180384265, y=80999001, width=831470, height=991392)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=162390838, y=82594257, width=716303, height=672797)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=164774316, y=82243054, width=332118, height=332629)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=162739655, y=80559660, width=477698, height=447703)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147773482, y=80349998, width=395196, height=396296)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151927674, y=85140000, width=423033, height=361997)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=161912500, y=82895179, width=591000, height=560000)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=152187157, y=83605141, width=477702, height=447701)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=159770911, y=81846551, width=431587, height=451032)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=166969645, y=84079650, width=283562, height=334628)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146946908, y=83401397, width=480312, height=451069)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=143700000, y=80440859, width=345507, height=352131)
+  Zone:$teardrop_padvia$ (net:20) VirtualBoundingBox(x=162395982, y=83871206, width=396095, height=443792)
+  Zone:$teardrop_padvia$ (net:29) VirtualBoundingBox(x=140249001, y=82849998, width=400996, height=376126)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146157478, y=81494123, width=608481, height=543124)
+  Zone:$teardrop_padvia$ (net:27) VirtualBoundingBox(x=140084000, y=81199200, width=446999, height=410215)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=152759449, y=83278363, width=391416, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=150786501, y=84711344, width=376364, height=369020)
+  Zone:$teardrop_padvia$ (net:25) VirtualBoundingBox(x=138096104, y=82949997, width=453896, height=356275)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=138208514, y=84586501, width=538686, height=591000)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=141912837, y=85435188, width=386196, height=319409)
+  Zone:$teardrop_padvia$ (net:28) VirtualBoundingBox(x=139847942, y=83523606, width=403057, height=399939)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154949500, y=81936071, width=404374, height=423754)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=160316317, y=81284065, width=497297, height=497313)
+  Zone:$teardrop_padvia$ (net:11) VirtualBoundingBox(x=142602775, y=80402775, width=398307, height=363659)
+  Zone:$teardrop_padvia$ (net:13) VirtualBoundingBox(x=144109088, y=80402775, width=388137, height=401731)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=138476857, y=84288157, width=561000, height=534060)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=138250276, y=80649000, width=517889, height=591000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151433843, y=84303843, width=392314, height=397157)
+  Zone:$teardrop_padvia$ (net:20) VirtualBoundingBox(x=162434001, y=83890464, width=400997, height=424534)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=164255652, y=82208566, width=316294, height=328987)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=163899001, y=82278363, width=340596, height=343274)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=149721525, y=81702929, width=413044, height=413046)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154529000, y=80920000, width=561000, height=560000)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=139921649, y=82049988, width=446079, height=408762)
+  Zone:$teardrop_padvia$ (net:6) VirtualBoundingBox(x=148778363, y=82149000, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145800824, y=83012639, width=440086, height=436086)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=142428363, y=85378363, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:30) VirtualBoundingBox(x=161726500, y=84472261, width=401000, height=399856)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=165899134, y=83128363, width=386208, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145752775, y=84262775, width=413046, height=413044)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=150607136, y=83850000, width=360728, height=388500)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=138210657, y=81010000, width=538686, height=591000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151578091, y=84814437, width=434041, height=417698)
+  Zone:$teardrop_padvia$ (net:15) VirtualBoundingBox(x=162337069, y=85015791, width=440309, height=484843)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145979998, y=82699986, width=400000, height=401013)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151199635, y=84716890, width=401364, height=400000)
+  Zone:$teardrop_padvia$ (net:18) VirtualBoundingBox(x=145689999, y=85270002, width=561000, height=560000)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=137995624, y=82184996, width=354376, height=266003)
+  Zone:$teardrop_padvia$ (net:23) VirtualBoundingBox(x=137085142, y=83097158, width=477701, height=447701)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=164254902, y=81189902, width=248598, height=245196)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=148837271, y=83828362, width=355593, height=410103)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=149893572, y=81076793, width=1237135, height=944950)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=164378363, y=80474035, width=343274, height=350150)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=152921273, y=83915859, width=374234, height=400336)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=164049000, y=81140863, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=164756712, y=81066711, width=315234, height=315235)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=138248133, y=84959999, width=517897, height=591000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155099135, y=83753843, width=461870, height=392314)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=154962483, y=82762399, width=427933, height=338080)
+  Zone:$teardrop_padvia$ (net:28) VirtualBoundingBox(x=139320000, y=83350000, width=400000, height=401000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151420497, y=84660982, width=320617, height=354292)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147368876, y=80413706, width=482642, height=447393)
+  Zone:$teardrop_padvia$ (net:9) VirtualBoundingBox(x=154781661, y=84611500, width=336678, height=488500)
+  Zone:$teardrop_padvia$ (net:12) VirtualBoundingBox(x=144603363, y=80978363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151411727, y=84487500, width=380661, height=431000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151430000, y=83999000, width=400000, height=401000)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=159686343, y=84511500, width=392314, height=397157)
+  Zone:$teardrop_padvia$ (net:28) VirtualBoundingBox(x=139519001, y=83557612, width=433057, height=383274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145764657, y=82850005, width=451269, height=381622)
+  Zone:$teardrop_padvia$ (net:27) VirtualBoundingBox(x=141600000, y=81088556, width=201000, height=223385)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154529000, y=81003843, width=397157, height=392314)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=149550000, y=81984609, width=365975, height=324709)
+  Zone:$teardrop_padvia$ (net:28) VirtualBoundingBox(x=139320000, y=83049000, width=400000, height=401000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155192036, y=85157712, width=457947, height=393287)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151518886, y=84700707, width=277408, height=257506)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=155157612, y=81299035, width=392007, height=450794)
+  Zone:$teardrop_padvia$ (net:17) VirtualBoundingBox(x=162739925, y=81259110, width=448738, height=444562)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=167252775, y=85352799, width=393912, height=394426)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=160272295, y=81312341, width=483056, height=513063)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=149848805, y=83116675, width=398420, height=400105)
+  Zone:$teardrop_padvia$ (net:25) VirtualBoundingBox(x=138449999, y=82857612, width=431000, height=384776)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=158627480, y=83911501, width=350000, height=351016)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=161912080, y=83089200, width=706400, height=676402)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154988886, y=83838886, width=487717, height=435432)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=159514335, y=82610281, width=628562, height=633140)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145791137, y=84301135, width=473542, height=448941)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147799001, y=80330000, width=400994, height=383533)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=138022775, y=82184996, width=327220, height=299145)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=146048900, y=83099293, width=361100, height=427295)
+  Zone:$teardrop_padvia$ (net:6) VirtualBoundingBox(x=145723220, y=81563732, width=413048, height=413042)
+  Zone:$teardrop_padvia$ (net:9) VirtualBoundingBox(x=154778363, y=84753363, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145980004, y=82399001, width=400000, height=401013)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147352519, y=80448406, width=455623, height=429050)
+  Zone:$teardrop_padvia$ (net:23) VirtualBoundingBox(x=122999001, y=85350000, width=500999, height=500000)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=175846101, y=82119215, width=1954899, height=1812255)
+  Zone:$teardrop_padvia$ (net:21) VirtualBoundingBox(x=142002222, y=80716683, width=198485, height=451923)
+  Zone:$teardrop_padvia$ (net:12) VirtualBoundingBox(x=158235544, y=81344161, width=567936, height=326879)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=159772499, y=82172500, width=560000, height=561000)
+  Zone:$teardrop_padvia$ (net:11) VirtualBoundingBox(x=164952775, y=82634180, width=413045, height=413045)
+  Zone:$teardrop_padvia$ (net:22) VirtualBoundingBox(x=138900000, y=84280000, width=401000, height=400000)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=159682500, y=84511500, width=400000, height=401000)
+  Zone:$teardrop_padvia$ (net:21) VirtualBoundingBox(x=139342660, y=80542660, width=485030, height=510030)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145539210, y=84075200, width=344931, height=382025)
+  Zone:Zone_<pcbnew. (net:2) VirtualBoundingBox(x=135300000, y=80000000, width=46500000, height=6200000)
+  Zone:Zone_<pcbnew. (net:0) VirtualBoundingBox(x=138900000, y=80100000, width=3500000, height=1900000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151590982, y=84533706, width=409916, height=416293)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=156086680, y=82215275, width=413045, height=413045)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=142363238, y=85366406, width=333987, height=392735)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145849000, y=84188363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:8) VirtualBoundingBox(x=145399000, y=80628363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:6) VirtualBoundingBox(x=146038044, y=81489320, width=347636, height=343274)
+  Zone:$teardrop_padvia$ (net:9) VirtualBoundingBox(x=141165859, y=84499994, width=352121, height=345513)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=164377499, y=80989984, width=1876000, height=1220032)
+  Zone:$teardrop_padvia$ (net:13) VirtualBoundingBox(x=144228363, y=80499000, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=156305275, y=82215275, width=413048, height=413042)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=143728363, y=80474001, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:11) VirtualBoundingBox(x=164755683, y=82852775, width=391542, height=394302)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=152854952, y=83140302, width=392273, height=406923)
+  Zone:$teardrop_padvia$ (net:2) VirtualBoundingBox(x=142228363, y=82303363, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147811500, y=80383843, width=397157, height=392314)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154418886, y=80813809, width=497305, height=497305)
+  Zone:$teardrop_padvia$ (net:4) VirtualBoundingBox(x=148653363, y=85553363, width=347636, height=343274)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=164003362, y=82828363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:1) VirtualBoundingBox(x=165979814, y=81599001, width=1522132, height=1083907)
+  Zone:$teardrop_padvia$ (net:12) VirtualBoundingBox(x=144804493, y=81115859, width=317687, height=422359)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=165549075, y=83128363, width=351890, height=343274)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=143128363, y=80474001, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=149803363, y=83042263, width=347636, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=147703843, y=84163843, width=397157, height=392314)
+  Zone:$teardrop_padvia$ (net:7) VirtualBoundingBox(x=141028363, y=81749000, width=343274, height=301000)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=137136828, y=80552775, width=450397, height=446138)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=160316309, y=81008988, width=497305, height=497305)
+  Zone:$teardrop_padvia$ (net:31) VirtualBoundingBox(x=167034328, y=85504493, width=349813, height=347905)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=152811926, y=83778363, width=338997, height=343274)
+  Zone:$teardrop_padvia$ (net:4) VirtualBoundingBox(x=141549001, y=84820019, width=344519, height=343274)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=150149000, y=83042263, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=156368359, y=81366993, width=336351, height=383003)
+  Zone:Zone_<pcbnew. (net:2) VirtualBoundingBox(x=119800000, y=80000000, width=15500000, height=6200000)
+  Zone:$teardrop_padvia$ (net:20) VirtualBoundingBox(x=164377500, y=83989984, width=1875999, height=1220032)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=153052775, y=83134182, width=413047, height=413043)
+  Zone:$teardrop_padvia$ (net:6) VirtualBoundingBox(x=148636183, y=81833377, width=411042, height=413848)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=164203362, y=80303363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=136999000, y=84928363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:8) VirtualBoundingBox(x=148603362, y=80865863, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=138022775, y=82352775, width=385698, height=413427)
+  Zone:$teardrop_padvia$ (net:32) VirtualBoundingBox(x=141663424, y=85548819, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=151233843, y=84503843, width=397156, height=392314)
+  Zone:$teardrop_padvia$ (net:12) VirtualBoundingBox(x=157403363, y=80928363, width=347636, height=343274)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=150799001, y=83642263, width=347636, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=145503362, y=84188363, width=347637, height=343274)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154722217, y=83753843, width=378782, height=392314)
+  Zone:$teardrop_padvia$ (net:26) VirtualBoundingBox(x=139707965, y=82252775, width=359260, height=423143)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=154133843, y=81003843, width=397157, height=392314)
+  Zone:$teardrop_padvia$ (net:3) VirtualBoundingBox(x=148099001, y=84163843, width=397156, height=392314)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=163602606, y=82304493, width=331535, height=395492)
+  Zone:$teardrop_padvia$ (net:13) VirtualBoundingBox(x=154103359, y=82115863, width=347640, height=343274)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=153115859, y=83694893, width=389251, height=352332)
+  Zone:$teardrop_padvia$ (net:11) VirtualBoundingBox(x=142528363, y=80499000, width=343274, height=347637)
+  Zone:$teardrop_padvia$ (net:10) VirtualBoundingBox(x=156068038, y=81340863, width=335461, height=343274)
+  Zone:$teardrop_padvia$ (net:5) VirtualBoundingBox(x=150499023, y=83515844, width=398202, height=395281)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=136950000, y=80200000, width=100000, height=5800000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=167750000, y=80200000, width=100000, height=5800000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=119750000, y=80200000, width=62100000, height=100000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=181750000, y=80200000, width=100000, height=5800000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=119750000, y=83050000, width=62100000, height=100000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=119750000, y=85900000, width=62100000, height=100000)
+  Graphic:PCB_SHAPE VirtualBoundingBox(x=119775000, y=79975000, width=62050000, height=6250000)
+INFO: Completed ImportNetlist in 0.019 seconds
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: SyncLayouts
+INFO: --------------------------------------------------------------------------------
+INFO: Starting SyncLayouts...
+DEBUG: Skipping group R1 - not newly added
+DEBUG: Skipping group R6 - not newly added
+DEBUG: Skipping group TP1 - not newly added
+DEBUG: Skipping group batman - not newly added
+DEBUG: Skipping group battery - not newly added
+DEBUG: Skipping group cpu - not newly added
+DEBUG: Skipping group hbt - not newly added
+DEBUG: Skipping group imu - not newly added
+DEBUG: Skipping group mic - not newly added
+DEBUG: Skipping group port - not newly added
+DEBUG: Skipping group tmp - not newly added
+DEBUG: Skipping group vreg - not newly added
+DEBUG: Skipping group batman.C11 - not newly added
+DEBUG: Skipping group batman.C34 - not newly added
+DEBUG: Skipping group batman.C4 - not newly added
+DEBUG: Skipping group battery.C33 - not newly added
+DEBUG: Skipping group battery.R3 - not newly added
+DEBUG: Skipping group battery.R4 - not newly added
+DEBUG: Skipping group cpu.C14 - not newly added
+DEBUG: Skipping group cpu.C17 - not newly added
+DEBUG: Skipping group cpu.C18 - not newly added
+DEBUG: Skipping group cpu.C19 - not newly added
+DEBUG: Skipping group cpu.C20 - not newly added
+DEBUG: Skipping group cpu.C21 - not newly added
+DEBUG: Skipping group cpu.C22 - not newly added
+DEBUG: Skipping group cpu.C23 - not newly added
+DEBUG: Skipping group cpu.Y1 - not newly added
+DEBUG: Skipping group cpu.ant - not newly added
+DEBUG: Skipping group cpu.pavdd - not newly added
+DEBUG: Skipping group cpu.rfvdd - not newly added
+DEBUG: Skipping group hbt.C10 - not newly added
+DEBUG: Skipping group hbt.C11 - not newly added
+DEBUG: Skipping group hbt.C8 - not newly added
+DEBUG: Skipping group hbt.C9 - not newly added
+DEBUG: Skipping group imu.C5 - not newly added
+DEBUG: Skipping group imu.C6 - not newly added
+DEBUG: Skipping group imu.C7 - not newly added
+DEBUG: Skipping group mic.C26 - not newly added
+DEBUG: Skipping group port.TP2 - not newly added
+DEBUG: Skipping group port.TP3 - not newly added
+DEBUG: Skipping group port.TP4 - not newly added
+DEBUG: Skipping group port.TP5 - not newly added
+DEBUG: Skipping group port.TP6 - not newly added
+DEBUG: Skipping group tmp.C3 - not newly added
+DEBUG: Skipping group vreg.C27 - not newly added
+DEBUG: Skipping group vreg.C28 - not newly added
+DEBUG: Skipping group vreg.C50 - not newly added
+DEBUG: Skipping group cpu.ant.C12 - not newly added
+DEBUG: Skipping group cpu.ant.C13 - not newly added
+DEBUG: Skipping group cpu.ant.L1 - not newly added
+DEBUG: Skipping group cpu.ant.L2 - not newly added
+DEBUG: Skipping group cpu.pavdd.C1 - not newly added
+DEBUG: Skipping group cpu.pavdd.C2 - not newly added
+DEBUG: Skipping group cpu.pavdd.C3 - not newly added
+DEBUG: Skipping group cpu.pavdd.FB1 - not newly added
+DEBUG: Skipping group cpu.rfvdd.C1 - not newly added
+DEBUG: Skipping group cpu.rfvdd.C2 - not newly added
+DEBUG: Skipping group cpu.rfvdd.C3 - not newly added
+DEBUG: Skipping group cpu.rfvdd.FB1 - not newly added
+INFO: Completed layout sync: synced 0 groups
+INFO: Completed SyncLayouts in 0.001 seconds
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: PlaceComponents
+INFO: --------------------------------------------------------------------------------
+INFO: Starting PlaceComponents...
+INFO: Starting hierarchical component placement
+INFO: No items were placed
+INFO: Completed hierarchical component placement
+INFO: Completed PlaceComponents in 0.000 seconds
+INFO: --------------------------------------------------------------------------------
+INFO: Running step: FinalizeBoard
+INFO: --------------------------------------------------------------------------------
+INFO: Starting FinalizeBoard...
+INFO: Saved layout snapshot to /home/dezash/projects/ring/ring/layout/snapshot.layout.json
+INFO: Snapshot export took 0.100 seconds
+INFO: Board saving took 0.036 seconds
+INFO: Completed FinalizeBoard in 0.148 seconds
+SUMMARY: 44 unchanged, 0 renamed, 0 split
