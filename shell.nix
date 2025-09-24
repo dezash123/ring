@@ -5,7 +5,7 @@ let
   
   pcb = pcb-flake.packages.${builtins.currentSystem}.default.overrideAttrs (oldAttrs: {
     cargoArtifacts = null;
-    doCheck = false;
+    # doCheck = false;
   });
 in
 pkgs.mkShell {
