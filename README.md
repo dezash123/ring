@@ -18,6 +18,7 @@
 	- everything else is fixed costs
 - battery: $3.50
 - casing: $0.08
+
 total: $34.36
 ## features
 - bq27427: battery monitor
