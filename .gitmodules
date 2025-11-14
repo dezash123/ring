@@ -1,0 +1,12 @@
+[submodule "ring-control"]
+	path = ring-control
+	url = https://github.com/dezash123/ring-control.git
+[submodule "ring-pcb"]
+	path = ring-pcb
+	url = https://github.com/dezash123/ring-pcb.git
+[submodule "ring-firmware"]
+	path = ring-firmware
+	url = https://github.com/dezash123/ring-firmware.git
+[submodule "ring-dock-pcb"]
+	path = ring-dock-pcb
+	url = https://github.com/dezash123/ring-dock-pcb
