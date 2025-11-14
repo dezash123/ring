@@ -7,6 +7,7 @@
 | [oura](https://ouraring.com/store/rings/oura-ring-4)           | 7.9     | 2.88      | 4-15         | ($499 or $349) + $6/mo |
 | [galaxy ring](https://www.samsung.com/us/rings/galaxy-ring/)   | 7.0     | 2.6       | 5-13         | $399                   |
 | [ultrahuman](https://www.ultrahuman.com/ring/buy/us/)          | 8.1     | 2.45-2.8  | unclear      | $349                   |
+
 6.9mm width can be made by inserting electronics mid-print
 ## pricing calculation
 - jlcpcb: $186.59 for 2 assembled
